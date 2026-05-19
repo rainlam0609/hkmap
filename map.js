@@ -193,6 +193,13 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
+        location: 'The Wave',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.309927648065017, 114.22464583708853],
+    },
+    {
+        name: 'McDonald’s',
         location: '九龍公園',
         tier: 'B Tier',
         sizeRating: 3,
