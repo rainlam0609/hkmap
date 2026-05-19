@@ -98,6 +98,38 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-%E6%9D%B1%E6%B6%8C-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r644669'
     },
     {
+        name: '爭鮮外帶壽司',
+        location: '港鐵太子站',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.322948675045673, 114.16929643769501],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%88%AD%E9%AE%AE%E5%A4%96%E5%B8%B6%E5%A3%BD%E5%8F%B8-%E5%A4%AA%E5%AD%90-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r51255'
+    },
+    {
+        name: '爭鮮外帶壽司',
+        location: '南昌戲院大廈',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.334110868304876, 114.16752398012538],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%88%AD%E9%AE%AE%E5%A4%96%E5%B8%B6%E5%A3%BD%E5%8F%B8-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r821255'
+    },
+    {
+        name: '爭鮮外帶壽司',
+        location: '開源道',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.31123218587477, 114.22600827541508],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%88%AD%E9%AE%AE%E5%A4%96%E5%B8%B6%E5%A3%BD%E5%8F%B8-%E8%A7%80%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r174154'
+    },
+    {
+        name: '爭鮮外帶壽司',
+        location: '彌敦道',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.3120016265903, 114.17114445738297],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%88%AD%E9%AE%AE%E5%A4%96%E5%B8%B6%E5%A3%BD%E5%8F%B8-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r486448'
+    },
+    {
         name: 'McDonald‘s',
         location: '海富中心',
         tier: 'B Tier',
