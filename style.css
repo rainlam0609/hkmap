@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* fallback map background color */
+}
+
+/* Customizing Leaflet Popup styling to match your clean screenshot aesthetics */
+.leaflet-popup-content-wrapper {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 6px !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15) !important;
+}
+
+.leaflet-popup-content h3 {
+    margin: 0 0 4px 0; 
+    font-size: 16px; 
+    font-weight: bold; 
+    color: #111;
+}
+
+.leaflet-popup-content p {
+    margin: 0 0 12px 0; 
+    font-size: 13px; 
+    color: #666;
+}
+
+.leaflet-popup-content a {
+    font-size: 13px; 
+    color: #0055ff; 
+    text-decoration: underline; 
+    font-weight: bold;
+}
+
+/* Customizing the Leaflet text labels next to the circles */
+.leaflet-tooltip.custom-label {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    color: #222 !important;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff; /* Crisp white outline text readability fallback handle */
+}
