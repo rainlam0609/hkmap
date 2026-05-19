@@ -279,6 +279,13 @@ const restaurants = [
         url: 'https://example.com/fairwood'
     },
     {
+        name: '阿梁手撕雞',
+        location: '寶靈街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.304244371706936, 114.17048671339394],
+    },
+    {
         name: '一蘭',
         location: '駱克大廈',
         tier: 'S Tier',
