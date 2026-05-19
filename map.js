@@ -215,6 +215,22 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%BF%AB%E6%B4%BB-%E9%87%91%E9%90%98-%E6%B8%AF%E5%BC%8F-r5234'
     },
     {
+        name: '吉野家',
+        location: '港灣豪庭廣場',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.32456469042345, 114.16070558612564],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-r881562'
+    },
+    {
+        name: '吉野家',
+        location: '大昌大廈',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.283338783165302, 114.1577493942954],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E4%B8%AD%E7%92%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r14506'
+    },
+    {
         name: '燒肉LIKE',
         location: 'Mikiki',
         tier: 'A Tier',
