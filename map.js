@@ -26,6 +26,14 @@ const restaurants = [
         url: 'https://example.com/chubby-bento'
     },
     {
+        name: '壽司郎',
+        location: '觀塘店',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.3107355291976, 114.22539373488918],
+        url: 'https://example.com/chubby-bento'
+    },
+    {
         name: '牛角',
         location: '南昌店',
         tier: 'B Tier',
