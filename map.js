@@ -50,12 +50,12 @@ const restaurants = [
         url: 'https://example.com/chubby-bento'
     },
     {
-        name: '牛角',
-        location: '南昌店',
+        name: '牛角日本燒肉專門店',
+        location: 'V Walk',
         tier: 'B Tier',
         sizeRating: 2,
         coords: [22.327042519418743, 114.15413709529979],
-        url: 'https://example.com/chubby-bento'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E8%A7%92%E6%97%A5%E6%9C%AC%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r632091'
     },
     {
         name: '牛角Buffet',
@@ -224,6 +224,102 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.29957458523824, 114.17267640642169],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E9%A7%85%E9%BA%BB%E8%BE%A3%E7%81%AB%E9%8D%8B%E6%94%BE%E9%A1%8C-%E5%B0%96%E6%B2%99%E5%92%80-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E7%81%AB%E9%8D%8B-r740026'
+    },
+    {
+        name: '田記魚蛋牛腩專門店',
+        location: '碧街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.313896954991222, 114.17001298126411],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%94%B0%E8%A8%98%E9%AD%9A%E8%9B%8B%E7%89%9B%E8%85%A9%E5%B0%88%E9%96%80%E5%BA%97-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%B8%AF%E5%BC%8F-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r559494'
+    },
+    {
+        name: '大壹燒鵝',
+        location: '啟田大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.315137728188397, 114.23395950332949],
+        url: 'https://example.com/chubby-bento'
+    },
+    {
+        name: '文記車仔麵',
+        location: '福榮街',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.33193211714304, 114.16276138352563],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%87%E8%A8%98%E8%BB%8A%E4%BB%94%E9%BA%B5-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%B8%AF%E5%BC%8F-%E8%BB%8A%E4%BB%94%E9%BA%B5-r55580'
+    },
+    {
+        name: '台食館',
+        location: '福榮街',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.331682616315085, 114.16339504470467],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8F%B0%E9%A3%9F%E9%A4%A8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r700223'
+    },
+    {
+        name: '韓燒大叔',
+        location: '友誠商業中心',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.318743930625686, 114.17002388198613],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%9F%93%E7%87%92%E5%A4%A7%E5%8F%94-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r796729'
+    },
+    {
+        name: '山見',
+        location: 'APM',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.312302086323683, 114.225498895478],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%B1%B1%E8%A6%8B-%E8%A7%80%E5%A1%98-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E7%81%AB%E9%8D%8B-r805270'
+    },
+    {
+        name: '極尚大喜屋',
+        location: '銅鑼灣廣場一期',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.28034683010983, 114.18272269547717],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%A5%B5%E5%B0%9A%E5%A4%A7%E5%96%9C%E5%B1%8B-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r541150'
+    },
+    {
+        name: '牛陣',
+        location: '銅鑼灣廣場一期',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.280465923306878, 114.18277633940944],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E9%99%A3-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r48867'
+    },
+    {
+        name: '牛大人台灣火鍋吃到飽',
+        location: '加拿芬廣場',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.29936245092929, 114.17328838534009],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A4%A7%E4%BA%BA%E5%8F%B0%E7%81%A3%E7%81%AB%E9%8D%8B%E5%90%83%E5%88%B0%E9%A3%BD-%E5%B0%96%E6%B2%99%E5%92%80-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r678976'
+    },
+    {
+        name: '牛大人台灣火鍋吃到飽',
+        location: '銅鑼灣廣場二期',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.280754824441125, 114.18219996849281],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A4%A7%E4%BA%BA%E5%8F%B0%E7%81%A3%E7%81%AB%E9%8D%8B%E5%90%83%E5%88%B0%E9%A3%BD-%E9%8A%85%E9%91%BC%E7%81%A3-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r667443'
+    },
+    {
+        name: '牛之鍋',
+        location: '冠景樓',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.278892598624548, 114.18101496849266],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E4%B9%8B%E9%8D%8B-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r688339'
+    },
+    {
+        name: '牛角日本燒肉專門店',
+        location: '又一城',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.338264960876323, 114.17378485372218],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E8%A7%92%E6%97%A5%E6%9C%AC%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r549517'
     }
 ];
 
