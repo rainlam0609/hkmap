@@ -74,6 +74,22 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E7%B4%85%E7%A3%A1-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r649929'
     },
     {
+        name: 'McDonald‘s',
+        location: '海富中心',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.280002809624946, 114.16497588133032],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%87%91%E9%90%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r486343'
+    },
+    {
+        name: 'McDonald’s',
+        location: '又一城',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.33661575264774, 114.17549238028681],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r685660'
+    },
+    {
         name: '牛角日本燒肉專門店',
         location: 'V Walk',
         tier: 'B Tier',
