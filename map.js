@@ -64,6 +64,14 @@ const restaurants = [
         sizeRating: 3,
         coords: [22.31062076163059, 114.22644466732764],
         url: 'https://example.com/fairwood'
+    },
+    {
+        name: '牛霸王',
+        location: '成業工業大廈',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.310122453185215, 114.22706869969105],
+        url: 'https://example.com/fairwood'
     }
 ];
 
