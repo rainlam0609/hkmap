@@ -144,6 +144,29 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r2243'
     },
     {
+        name: 'McDonald’s',
+        location: '大同新村',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.321640133338807, 114.16166564491859],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%A4%A7%E8%A7%92%E5%92%80-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r4135'
+    },
+    {
+        name: 'McDonald’s',
+        location: '九龍公園',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.301754673897467, 114.16996735336733],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%B0%96%E6%B2%99%E5%92%80-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r2171'
+    },
+    {
+        name: '麥當勞小食亭',
+        location: '九龍公園',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.300082082547842, 114.17027580741077],
+    },
+    {
         name: '燒肉LIKE',
         location: 'Mikiki',
         tier: 'A Tier',
