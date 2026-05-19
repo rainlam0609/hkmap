@@ -184,6 +184,46 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.320506957263824, 114.1693325160395],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8F%A4%E6%97%A9%E5%8F%B0%E5%B1%85-%E6%97%BA%E8%A7%92-%E5%8F%B0%E7%81%A3%E8%8F%9C-r706958'
+    },
+    {
+        name: 'Sukiya',
+        location: '譽發廣場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.305117997726104, 114.17167067503313],
+        url: 'https://www.openrice.com/zh/hongkong/r-sukiya-%E3%81%99%E3%81%8D%E5%AE%B6-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r665937'
+    },
+    {
+        name: 'Saizeriya',
+        location: '莊士倫敦廣場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.30345071978486, 114.17153991745259],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E4%BD%90%E6%95%A6-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r716361'
+    },
+    {
+        name: '漢和韓國料理',
+        location: '胡社生行',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.318531524317265, 114.16926001048502],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%BC%A2%E5%92%8C%E9%9F%93%E5%9C%8B%E6%96%99%E7%90%86-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r41552'
+    },
+    {
+        name: 'Goobne Chicken',
+        location: 'V Point',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.27919087503562, 114.18157875314895],
+        url: 'https://www.openrice.com/zh/hongkong/r-goobne-chicken-%E9%8A%85%E9%91%BC%E7%81%A3-%E9%9F%93%E5%9C%8B%E8%8F%9C-%E9%9F%93%E5%BC%8F%E7%82%B8%E9%9B%9E-r503026'
+    },
+    {
+        name: '牛駅麻辣火鍋放題',
+        location: '愛賓商業大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.29957458523824, 114.17267640642169],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E9%A7%85%E9%BA%BB%E8%BE%A3%E7%81%AB%E9%8D%8B%E6%94%BE%E9%A1%8C-%E5%B0%96%E6%B2%99%E5%92%80-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E7%81%AB%E9%8D%8B-r740026'
     }
 ];
 
