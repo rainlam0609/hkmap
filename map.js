@@ -1,5 +1,5 @@
 // 1. Initialize Leaflet Map over Tsim Sha Tsui, Hong Kong
-const map = L.map('map').setView([22.2990, 114.1724], 12);
+const map = L.map('map').setView([22.2990, 114.1724], 14);
 
 // 2. Load Free OpenStreetMap Style Tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -103,7 +103,7 @@ const restaurants = [
         tier: 'A Tier',
         sizeRating: 1,
         coords: [22.310156258577994, 114.22491725989589],
-        url: 'https://example.com/fairwood'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%88%8C%E4%B8%BC-%E8%A7%80%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%87%92%E7%83%A4-r791232'
     },
     {
         name: '牛霸王',
@@ -119,7 +119,7 @@ const restaurants = [
         tier: 'S Tier',
         sizeRating: 1,
         coords: [22.30418122070105, 114.2603938980381],
-        url: 'https://example.com/fairwood'
+        url: 'https://www.openrice.com/zh/hongkong/r-hygge-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E8%A5%BF%E5%BC%8F-r743338'
     },
     {
         name: '紅蔥頭',
