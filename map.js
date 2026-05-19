@@ -82,6 +82,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E8%97%8D%E7%94%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r684828'
     },
     {
+        name: '元気寿司',
+        location: 'V Walk',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.327951961257792, 114.15242012589741],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r852249'
+    },
+    {
         name: 'McDonald‘s',
         location: '海富中心',
         tier: 'B Tier',
@@ -96,6 +104,13 @@ const restaurants = [
         sizeRating: 3,
         coords: [22.33661575264774, 114.17549238028681],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r685660'
+    },
+    {
+        name: 'McDonald’s',
+        location: '海達邨三期平台',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.329334542085917, 114.15170761601867],
     },
     {
         name: '燒肉LIKE',
@@ -394,6 +409,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E8%A7%92%E6%97%A5%E6%9C%AC%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r549517'
     },
     {
+        name: '牛涮鍋もっと',
+        location: 'V Walk',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.327031988159867, 114.15414268220128],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E6%B6%AE%E9%8D%8B%E3%82%82%E3%81%A3%E3%81%A8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%81%AB%E9%8D%8B-r631473/'
+    },
+    {
         name: '真真美食店',
         location: '春秧街',
         tier: 'A Tier',
@@ -416,6 +439,14 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.276396941842656, 114.17187801082078],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BB%91%E9%BE%8D-%E7%81%A3%E4%BB%94-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r348661'
+    },
+    {
+        name: '橫濱家系町田商店',
+        location: 'AIRSIDE',
+        tier: 'A Tier',
+        sizeRating: 2,
+        coords: [22.33156276339441, 114.19832060897072],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%A9%AB%E6%BF%B1%E5%AE%B6%E7%B3%BB%E7%94%BA%E7%94%B0%E5%95%86%E5%BA%97-%E4%B9%9D%E9%BE%8D%E5%9F%8E-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r869688'
     },
     {
         name: 'Crêpe Delicious',
