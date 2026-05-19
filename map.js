@@ -744,34 +744,43 @@ function getMarkerRadius(sizeRating) {
 // 6. Loop through your data to plot points on the street view map grid
 restaurants.forEach(place => {
     
-    // Apply separate design logic profiles 
     const markerStyles = {
-        radius: getMarkerRadius(place.sizeRating), // Isolated Size Logic
-        fillColor: getMarkerColor(place.tier),     // Isolated Color Logic
+        radius: getMarkerRadius(place.sizeRating),
+        fillColor: getMarkerColor(place.tier),
         color: '#474747',
         weight: 1.5,
         fillOpacity: 0.85
     };
 
-    // Plot circle marker structure instance
     const circleMarker = L.circleMarker(place.coords, markerStyles).addTo(map);
 
-    // Build the popup message container interface elements
+    // 1. Create a variable to hold our link HTML
+    let linkHtml = '';
+
+    // 2. Check if the restaurant actually has a URL entered
+    if (place.url && place.url !== '') {
+        // If it has a URL, create the clickable link button
+        linkHtml = `<a href="${place.url}" target="_blank">More info</a>`;
+    } else {
+        // If it doesn't have a URL, leave it empty or show a placeholder text
+        linkHtml = `<span style="font-size: 13px; color: #999; font-style: italic;">No link available</span>`;
+    }
+
+    // 3. Insert that linkHtml variable straight into your main popup template
     const popupHtml = `
         <div>
             <h3>${place.name}</h3>
-            <p>${place.location} &nbsp;•&nbsp; <strong style="color: ${getMarkerColor(place.tier)}; text-shadow: 0.5px 0.5px 0 #000;">${place.tier}</strong></p>
-            <a href="${place.url}" target="_blank">More info</a>
+            <p>${place.location} &nbsp;•&nbsp; <strong style="color: ${getMarkerColor(place.tier)};">${place.tier}</strong></p>
+            ${linkHtml} 
         </div>
     `;
 
     circleMarker.bindPopup(popupHtml);
 
-    // Attach static map display text descriptions layout metrics
     circleMarker.bindTooltip(place.name, {
         permanent: true,
         direction: 'bottom',
-        offset: [0, markerStyles.radius], // Adapts text label gap automatically to circle boundary
+        offset: [0, markerStyles.radius],
         className: 'custom-label'
     }).openTooltip();
 });
