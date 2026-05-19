@@ -74,6 +74,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E7%B4%85%E7%A3%A1-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r649929'
     },
     {
+        name: '壽司郎',
+        location: '啟田商場',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.303916939343875, 114.18846666806746],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E8%97%8D%E7%94%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r684828'
+    },
+    {
         name: 'McDonald‘s',
         location: '海富中心',
         tier: 'B Tier',
