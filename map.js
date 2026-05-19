@@ -90,6 +90,30 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r685660'
     },
     {
+        name: '燒肉LIKE',
+        location: 'Mikiki',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.333675035845147, 114.19722836815211],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E6%96%B0%E8%92%B2%E5%B4%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%87%92%E7%83%A4-r872989'
+    },
+    {
+        name: '燒肉LIKE',
+        location: '黃大仙中心南館',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.34334383092665, 114.19514474987207],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E9%BB%83%E5%A4%A7%E4%BB%99-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r802353'
+    },
+    {
+        name: '燒肉LIKE',
+        location: '奧海城二期',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.333675035845147, 114.19722836815211],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r790880'
+    },
+    {
         name: '牛角日本燒肉專門店',
         location: 'V Walk',
         tier: 'B Tier',
