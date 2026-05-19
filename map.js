@@ -199,6 +199,22 @@ const restaurants = [
         coords: [22.300082082547842, 114.17027580741077],
     },
     {
+        name: '大快活',
+        location: '港灣豪庭廣場',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.32428819061814, 114.16089450955772],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%BF%AB%E6%B4%BB-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%B8%AF%E5%BC%8F-r578625'
+    },
+    {
+        name: '大快活',
+        location: '遠東金融中心',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.280182390478778, 114.16405206412904],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%BF%AB%E6%B4%BB-%E9%87%91%E9%90%98-%E6%B8%AF%E5%BC%8F-r5234'
+    },
+    {
         name: '燒肉LIKE',
         location: 'Mikiki',
         tier: 'A Tier',
