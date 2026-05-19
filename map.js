@@ -320,6 +320,70 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.338264960876323, 114.17378485372218],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E8%A7%92%E6%97%A5%E6%9C%AC%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r549517'
+    },
+    {
+        name: '真真美食店',
+        location: '春秧街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.291199833168914, 114.19705732581501],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%9C%9F%E7%9C%9F%E7%BE%8E%E9%A3%9F%E5%BA%97-%E5%8C%97%E8%A7%92-%E9%96%A9%E8%8F%9C-%E7%A6%8F%E5%BB%BA-%E4%B8%AD%E5%BC%8F%E5%8C%85%E9%BB%9E-r19179'
+    },
+    {
+        name: '深仔記茶餐廳',
+        location: '九龍中心大廈',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.297656238237, 114.17037645314944],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%B7%B1%E4%BB%94%E8%A8%98%E8%8C%B6%E9%A4%90%E5%BB%B3-%E5%B0%96%E6%B2%99%E5%92%80-%E6%B8%AF%E5%BC%8F-r640339'
+    },
+    {
+        name: '黑龍拉麵',
+        location: '汕頭街',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.276396941842656, 114.17187801082078],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BB%91%E9%BE%8D-%E7%81%A3%E4%BB%94-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r348661'
+    },
+    {
+        name: 'Crêpe Delicious',
+        location: '利東街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.27583680484922, 114.17251516849257],
+        url: 'https://www.openrice.com/zh/hongkong/r-crepe-delicious-urban-cafe-%E7%81%A3%E4%BB%94-%E8%A5%BF%E5%BC%8F-%E9%9B%AA%E7%B3%95-%E4%B9%B3%E9%85%AA-r680846'
+    },
+    {
+        name: 'Mr. Steak Buffet à la minute',
+        location: '世貿中心',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.281906195413118, 114.18411840896947],
+        url: 'https://www.openrice.com/zh/hongkong/r-mr-steak-buffet-a-la-minute-%E9%8A%85%E9%91%BC%E7%81%A3-%E5%A4%9A%E5%9C%8B%E8%8F%9C-%E8%87%AA%E5%8A%A9%E9%A4%90-r179934'
+    },
+    {
+        name: '萬發海鮮菜館',
+        location: '福華街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.329015422558555, 114.1655485331703],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%90%AC%E7%99%BC%E6%B5%B7%E9%AE%AE%E8%8F%9C%E9%A4%A8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E6%B5%B7%E9%AE%AE-r495907'
+    },
+    {
+        name: '雞味濃',
+        location: '樹德大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.27932287334518, 114.17009239412947],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%9B%9E%E5%91%B3%E6%BF%83-%E7%81%A3%E4%BB%94-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r749863'
+    },
+    {
+        name: 'Outdark',
+        location: '飛達商業中心',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.31783270129838, 114.16934251760989],
+        url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
     }
 ];
 
