@@ -434,12 +434,84 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E6%96%B0%E8%92%B2%E5%B4%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%87%92%E7%83%A4-r872989'
     },
     {
-        name: '印度野 ',
+        name: '印度野',
         location: '慧安商場',
         tier: 'S Tier',
         sizeRating: 1,
         coords: [22.32445324461893, 114.2541766853746],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%B0%E5%BA%A6%E9%87%8E-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E5%8D%B0%E5%BA%A6%E8%8F%9C-%E5%92%96%E5%96%B1-r790085'
+    },
+    {
+        name: '多彩皇宮',
+        location: '美彩樓',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.3326221687015, 114.16609408696533],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%9A%E5%BD%A9%E7%9A%87%E5%AE%AE-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E7%87%92%E8%87%98-r58814'
+    },
+    {
+        name: '南豐餐廳',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.333184726489662, 114.17068795697962],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%97%E8%B1%90%E9%A4%90%E5%BB%B3-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r20065'
+    },
+    {
+        name: '品香樓中西風味餐廳',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 2,
+        coords: [22.333018498325167, 114.1708140208017],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%93%81%E9%A6%99%E6%A8%93%E4%B8%AD%E8%A5%BF%E9%A2%A8%E5%91%B3%E9%A4%90%E5%BB%B3-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r7601'
+    },
+    {
+        name: '新南山冰室',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.333273246845295, 114.17024136441319],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%B0%E5%8D%97%E5%B1%B1%E5%86%B0%E5%AE%A4-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r19152'
+    },
+    {
+        name: '髀加燒',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 2,
+        coords: [22.33298172735632, 114.17028830306977],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%AB%80%E5%8A%A0%E7%87%92-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r878336'
+    },
+    {
+        name: '南山雞蛋仔',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.332977357063776, 114.17020082473371],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%97%E5%B1%B1%E9%9B%9E%E8%9B%8B%E4%BB%94-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r886721'
+    },
+    {
+        name: '南山白汁冰',
+        location: '南山邨',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.333000616620957, 114.17014483362047],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%97%E5%B1%B1%E7%99%BD%E6%B1%81%E5%86%B0-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-r862463'
+    },
+    {
+        name: 'C+屋',
+        location: '南山邨',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.332883388415734, 114.1708918288322],
+        url: 'https://www.openrice.com/zh/hongkong/r-c-%E5%B1%8B-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E6%B8%AF%E5%BC%8F-%E9%9B%AA%E7%B3%95-%E4%B9%B3%E9%85%AA-r438729'
+    },
+    {
+        name: '美景小廚',
+        location: '石硤尾邨街市及熟食檔平台',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.331840981614423, 114.16597537016743],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%BE%8E%E6%99%AF%E5%B0%8F%E5%BB%9A-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r459291'
     }
 ];
 
