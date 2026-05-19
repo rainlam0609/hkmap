@@ -366,6 +366,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%A5%9A%E6%92%9A%E8%A8%98%E5%A4%A7%E6%8E%92%E6%AA%94-%E8%8D%83%E7%81%A3-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r680361'
     },
     {
+        name: '壹點甜粵點專門店',
+        location: '馬頭圍道',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.314578979685045, 114.18729272431413],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%B9%E9%BB%9E%E7%94%9C%E7%B2%B5%E9%BB%9E%E5%B0%88%E9%96%80%E5%BA%97-%E5%9C%9F%E7%93%9C%E7%81%A3-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r490755'
+    },
+    {
         name: '一蘭',
         location: '駱克大廈',
         tier: 'S Tier',
