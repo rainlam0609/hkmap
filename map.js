@@ -1,5 +1,5 @@
 // 1. Initialize Leaflet Map over Tsim Sha Tsui, Hong Kong
-const map = L.map('map').setView([22.2990, 114.1724], 12);
+const map = L.map('map').setView([22.2990, 114.1724], 13);
 
 // 2. Load Free OpenStreetMap Style Tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
