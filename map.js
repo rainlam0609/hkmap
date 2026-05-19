@@ -11,27 +11,27 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const restaurants = [
     {
         name: '壽司郎',
-        location: '佐敦店',
+        location: '佐敦薈',
         tier: 'S Tier',
         sizeRating: 3,
         coords: [22.304921809859376, 114.17138672277119],
-        url: 'https://example.com/chubby-bento'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E4%BD%90%E6%95%A6-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r735171'
     },
     {
         name: '壽司郎',
-        location: '南昌店',
+        location: 'V Walk',
         tier: 'S Tier',
         sizeRating: 3,
         coords: [22.32573569302258, 114.1550352796978],
-        url: 'https://example.com/chubby-bento'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r853548'
     },
     {
         name: '壽司郎',
-        location: '觀塘店',
+        location: '源成中心',
         tier: 'S Tier',
         sizeRating: 1,
         coords: [22.3107355291976, 114.22539373488918],
-        url: 'https://example.com/chubby-bento'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E8%A7%80%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r875940'
     },
     {
         name: '壽司郎',
@@ -43,11 +43,35 @@ const restaurants = [
     },
     {
         name: '壽司郎',
-        location: '尖沙咀店',
+        location: '愛賓商業大廈',
         tier: 'S Tier',
         sizeRating: 2,
         coords: [22.299419627450252, 114.17258723440538],
-        url: 'https://example.com/chubby-bento'
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E5%B0%96%E6%B2%99%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r790808'
+    },
+    {
+        name: '壽司郎',
+        location: '樂富廣場A區',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.339865109251043, 114.18736833038608],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E6%A8%82%E5%AF%8C-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r678463'
+    },
+    {
+        name: '壽司郎',
+        location: '天地時尚坊(第二期)',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.305410465609306, 114.18995828444899],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E7%B4%85%E7%A3%A1-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r1113938'
+    },
+    {
+        name: '壽司郎',
+        location: '天地享膳坊(第4期)',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.303916939343875, 114.18846666806746],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E7%B4%85%E7%A3%A1-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r649929'
     },
     {
         name: '牛角日本燒肉專門店',
