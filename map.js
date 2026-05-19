@@ -10,35 +10,35 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // 3. Updated Dataset: Tier and Size are now totally separate!
 const restaurants = [
     {
-        name: '壽司郎 (佐敦)',
-        location: '佐敦薈',
+        name: '壽司郎',
+        location: '佐敦店',
         tier: 'S Tier',
         sizeRating: 3,
         coords: [22.304921809859376, 114.17138672277119],
         url: 'https://example.com/chubby-bento'
     },
     {
-        name: '壽司郎 (南昌)',
-        location: 'V Walk',
+        name: '壽司郎',
+        location: '南昌店',
         tier: 'S Tier',
         sizeRating: 3,
         coords: [22.32573569302258, 114.1550352796978],
         url: 'https://example.com/chubby-bento'
     },
     {
-        name: '牛角 (南昌)',
-        location: 'V Walk',
+        name: '牛角',
+        location: '南昌店',
         tier: 'B Tier',
         sizeRating: 2,
         coords: [22.327042519418743, 114.15413709529979],
         url: 'https://example.com/chubby-bento'
     },
     {
-        name: '譚仔雲南米線 Tamjai Mixian',
-        location: '尖沙咀店',
-        tier: 'A Tier',      // Sets the color (Green)
-        sizeRating: 2,      // Sets the size (Small)
-        coords: [22.2998, 114.1715],
+        name: '牛品台式火鍋',
+        location: '銅鑼灣店',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.27890415887033, 114.18175850713389],
         url: 'https://example.com/tamjai'
     },
     {
