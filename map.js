@@ -450,6 +450,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
     },
     {
+        name: '亞參雞飯',
+        location: '德福廣場1期',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.324956720397918, 114.213434400689],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E4%BA%9E%E5%8F%83%E9%9B%9E%E9%A3%AF-%E4%B9%9D%E9%BE%8D%E7%81%A3-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8F%9C-r676591'
+    },
+    {
         name: '安金稻拌飯',
         location: '啟德零售館1',
         tier: 'A Tier',
