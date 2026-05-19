@@ -78,7 +78,7 @@ const restaurants = [
         location: '啟田商場',
         tier: 'S Tier',
         sizeRating: 1,
-        coords: [22.303916939343875, 114.18846666806746],
+        coords: [22.30882963140762, 114.23485511113519],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A3%BD%E5%8F%B8%E9%83%8E-%E8%97%8D%E7%94%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r684828'
     },
     {
