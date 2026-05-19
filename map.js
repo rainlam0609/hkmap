@@ -112,6 +112,54 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.310243713785088, 114.227068695478],
         url: 'https://example.com/fairwood'
+    },
+    {
+        name: 'Hygge',
+        location: '海天晉滙',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.30418122070105, 114.2603938980381],
+        url: 'https://example.com/fairwood'
+    },
+    {
+        name: '紅蔥頭',
+        location: '西九龍中心',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.331018984464382, 114.15956485989649],
+        url: 'https://example.com/fairwood'
+    },
+    {
+        name: '在蘭州',
+        location: '西九龍中心',
+        tier: 'A Tier',
+        sizeRating: 2,
+        coords: [22.33118675830544, 114.15993402879299],
+        url: 'https://example.com/fairwood'
+    },
+    {
+        name: '一蘭',
+        location: '駱克大廈',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.2813263711094, 114.18152071414741],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A9%E7%84%B6%E8%B1%9A%E9%AA%A8%E6%8B%89%E9%BA%B5%E5%B0%88%E9%96%80%E5%BA%97%E4%B8%80%E8%98%AD-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r140523'
+    },
+    {
+        name: '大門拉麵',
+        location: '屯門市廣場1期',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.33118675830544, 114.15993402879299],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E9%96%80%E6%8B%89%E9%BA%B5-%E5%B1%AF%E9%96%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r474534'
+    },
+    {
+        name: '麵屋丸京',
+        location: '荔枝角道',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.32859239605463, 114.16026525199025],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%B5%E5%B1%8B%E4%B8%B8%E4%BA%AC-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r686553'
     }
 ];
 
