@@ -34,6 +34,14 @@ const restaurants = [
         url: 'https://example.com/chubby-bento'
     },
     {
+        name: '牛角Buffet',
+        location: '裕民坊',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.31424600075877, 114.2239906168497],
+        url: 'https://example.com/chubby-bento'
+    },
+    {
         name: '牛品台式火鍋',
         location: '銅鑼灣店',
         tier: 'S Tier',
@@ -42,11 +50,19 @@ const restaurants = [
         url: 'https://example.com/tamjai'
     },
     {
-        name: '大快活 Fairwood',
-        location: '堪富利士道',
-        tier: 'D Tier',      // Sets the color (Bright Red!)
-        sizeRating: 1,      // Sets the size (Medium)
-        coords: [22.2980, 114.1728],
+        name: '麵尊',
+        location: '登龍街',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.279126674690243, 114.18167531489904],
+        url: 'https://example.com/fairwood'
+    }
+    {
+        name: '黃金冰室',
+        location: '成業街',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.31062076163059, 114.22644466732764],
         url: 'https://example.com/fairwood'
     }
 ];
