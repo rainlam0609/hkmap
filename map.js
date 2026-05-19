@@ -56,7 +56,7 @@ const restaurants = [
         sizeRating: 3,
         coords: [22.279126674690243, 114.18167531489904],
         url: 'https://example.com/fairwood'
-    }
+    },
     {
         name: '黃金冰室',
         location: '成業街',
