@@ -528,6 +528,38 @@ const restaurants = [
         sizeRating: 2,
         coords: [22.331840981614423, 114.16597537016743],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%BE%8E%E6%99%AF%E5%B0%8F%E5%BB%9A-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r459291'
+    },
+    {
+        name: '金色不如帰',
+        location: '又一城',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.33742606444853, 114.17410276829817],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%87%91%E8%89%B2%E4%B8%8D%E5%A6%82%E5%B8%B0-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r686546'
+    },
+    {
+        name: '沙嗲王',
+        location: '又一城',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.33782510706878, 114.1739578700043],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%B2%99%E5%97%B2%E7%8E%8B-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E5%A4%9A%E5%9C%8B%E8%8F%9C-r770247'
+    },
+    {
+        name: '吉野家',
+        location: '又一城',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.33854919208418, 114.17410800609262],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-r14790'
+    },
+    {
+        name: 'Pepper Lunch Express',
+        location: '又一城',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.337589326154184, 114.17441071233246],
+        url: 'https://www.openrice.com/zh/hongkong/r-pepper-lunch-express-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-r87367'
     }
 ];
 
