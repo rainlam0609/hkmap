@@ -160,6 +160,30 @@ const restaurants = [
         sizeRating: 2,
         coords: [22.32859239605463, 114.16026525199025],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%B5%E5%B1%8B%E4%B8%B8%E4%BA%AC-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r686553'
+    },
+    {
+        name: '漁場台風',
+        location: '快富街',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.32062264618523, 114.1712610245689],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%BC%81%E5%A0%B4%E5%8F%B0%E9%A2%A8-%E6%97%BA%E8%A7%92-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r445841'
+    },
+    {
+        name: 'Popeyes',
+        location: 'T.O.P',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.32049144950444, 114.16960543080324],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B%E7%82%B8%E9%9B%9E-%E6%97%BA%E8%A7%92-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%B8%85%E7%9C%9F%E8%AA%8D%E8%AD%89%E9%A3%9F%E5%93%81-r577935'
+    },
+    {
+        name: '古早台居',
+        location: 'T.O.P',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.320506957263824, 114.1693325160395],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8F%A4%E6%97%A9%E5%8F%B0%E5%B1%85-%E6%97%BA%E8%A7%92-%E5%8F%B0%E7%81%A3%E8%8F%9C-r706958'
     }
 ];
 
