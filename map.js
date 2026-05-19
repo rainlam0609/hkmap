@@ -358,6 +358,14 @@ const restaurants = [
         coords: [22.304244371706936, 114.17048671339394],
     },
     {
+        name: '楚撚記大排檔',
+        location: '百悅坊',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.37309408091386, 114.11610231187312],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%A5%9A%E6%92%9A%E8%A8%98%E5%A4%A7%E6%8E%92%E6%AA%94-%E8%8D%83%E7%81%A3-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r680361'
+    },
+    {
         name: '一蘭',
         location: '駱克大廈',
         tier: 'S Tier',
