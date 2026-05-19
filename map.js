@@ -90,11 +90,27 @@ const restaurants = [
         url: 'https://example.com/fairwood'
     },
     {
+        name: '金飯館',
+        location: '牛頭角道',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.315211785246543, 114.2221581819858],
+        url: 'https://example.com/fairwood'
+    },
+    {
+        name: '舌丼',
+        location: '駱駝漆大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.310156258577994, 114.22491725989589],
+        url: 'https://example.com/fairwood'
+    },
+    {
         name: '牛霸王',
         location: '成業工業大廈',
-        tier: 'B Tier',
+        tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.310122453185215, 114.22706869969105],
+        coords: [22.310243713785088, 114.227068695478],
         url: 'https://example.com/fairwood'
     }
 ];
