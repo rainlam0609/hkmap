@@ -497,8 +497,8 @@ const restaurants = [
         location: '啟田大廈',
         tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.315137728188397, 114.23395950332949],
-        url: 'https://example.com/chubby-bento'
+        coords: [22.308614509720375, 114.23406162151718],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%A3%B9%E7%87%92%E9%B5%9D-%E8%97%8D%E7%94%B0-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E7%87%92%E8%87%98-r699025'
     },
     {
         name: '文記車仔麵',
