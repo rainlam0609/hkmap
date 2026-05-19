@@ -90,6 +90,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r852249'
     },
     {
+        name: '元気寿司',
+        location: '東薈城名店倉',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.29005251387071, 113.94040289547746],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-%E6%9D%B1%E6%B6%8C-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r644669'
+    },
+    {
         name: 'McDonald‘s',
         location: '海富中心',
         tier: 'B Tier',
@@ -111,6 +119,29 @@ const restaurants = [
         tier: 'B Tier',
         sizeRating: 2,
         coords: [22.329334542085917, 114.15170761601867],
+    },
+    {
+        name: 'McDonald’s',
+        location: '欽州街',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.332113865999773, 114.16145251082226],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r2244'
+    },
+    {
+        name: 'McDonald’s',
+        location: '鴨寮街',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.330047552225466, 114.16262894862682],
+    },
+    {
+        name: 'McDonald’s',
+        location: '萬盛閣',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.32587928944367, 114.16442066423001],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r2243'
     },
     {
         name: '燒肉LIKE',
@@ -321,6 +352,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%94%B0%E8%A8%98%E9%AD%9A%E8%9B%8B%E7%89%9B%E8%85%A9%E5%B0%88%E9%96%80%E5%BA%97-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%B8%AF%E5%BC%8F-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r559494'
     },
     {
+        name: '田記魚蛋牛腩專門店',
+        location: '塘尾道',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.324911084327184, 114.16470359645758],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%94%B0%E8%A8%98%E9%AD%9A%E8%9B%8B%E7%89%9B%E8%85%A9%E5%B0%88%E9%96%80%E5%BA%97-%E5%A4%AA%E5%AD%90-%E6%B8%AF%E5%BC%8F-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r673663'
+    },
+    {
         name: '大壹燒鵝',
         location: '啟田大廈',
         tier: 'A Tier',
@@ -487,6 +526,14 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.31783270129838, 114.16934251760989],
         url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
+    },
+    {
+        name: 'Power Burger',
+        location: '黃竹街',
+        tier: 'S Tier',
+        sizeRating: 2,
+        coords: [22.32759144321895, 114.16443398349453],
+        url: 'https://www.openrice.com/zh/hongkong/r-power-burger-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r741232'
     },
     {
         name: '亞參雞飯',
