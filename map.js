@@ -384,6 +384,38 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.31783270129838, 114.16934251760989],
         url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
+    },
+    {
+        name: '安金稻拌飯',
+        location: '啟德零售館1',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.327173508596662, 114.19644525384558],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%AE%89%E9%87%91%E7%A8%BB%E6%8B%8C%E9%A3%AF-%E4%B9%9D%E9%BE%8D%E5%9F%8E-%E9%9F%93%E5%9C%8B%E8%8F%9C-r889726'
+    },
+    {
+        name: '安金稻朝鮮拌飯',
+        location: 'Mikiki',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.334077200223245, 114.19744774590767],
+        url: 'hhttps://www.openrice.com/zh/hongkong/r-%E5%AE%89%E9%87%91%E7%A8%BB%E6%9C%9D%E9%AE%AE%E6%8B%8C%E9%A3%AF-%E6%96%B0%E8%92%B2%E5%B4%97-%E9%9F%93%E5%9C%8B%E8%8F%9C-r883907'
+    },
+    {
+        name: '燒肉LIKE',
+        location: 'Mikiki',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.333675035845147, 114.19722836815211],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E6%96%B0%E8%92%B2%E5%B4%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%87%92%E7%83%A4-r872989'
+    },
+    {
+        name: '印度野 ',
+        location: '慧安商場',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.32445324461893, 114.2541766853746],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%B0%E5%BA%A6%E9%87%8E-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E5%8D%B0%E5%BA%A6%E8%8F%9C-%E5%92%96%E5%96%B1-r790085'
     }
 ];
 
