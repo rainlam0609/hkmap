@@ -10,11 +10,27 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // 3. Updated Dataset: Tier and Size are now totally separate!
 const restaurants = [
     {
-        name: '小胖台灣便當 Chubby Bento',
-        location: '加拿大分道',
-        tier: 'S Tier',      // Sets the color (Blue)
-        sizeRating: 3,      // Sets the size (Large)
-        coords: [22.2985, 114.1732],
+        name: '壽司郎 (佐敦)',
+        location: '佐敦薈',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.304921809859376, 114.17138672277119],
+        url: 'https://example.com/chubby-bento'
+    },
+    {
+        name: '壽司郎 (南昌)',
+        location: 'V Walk',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.32573569302258, 114.1550352796978],
+        url: 'https://example.com/chubby-bento'
+    },
+    {
+        name: '牛角 (南昌)',
+        location: 'V Walk',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.327042519418743, 114.15413709529979],
         url: 'https://example.com/chubby-bento'
     },
     {
