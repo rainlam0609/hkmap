@@ -584,6 +584,22 @@ const restaurants = [
         sizeRating: 3,
         coords: [22.337589326154184, 114.17441071233246],
         url: 'https://www.openrice.com/zh/hongkong/r-pepper-lunch-express-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-r87367'
+    },
+    {
+        name: '城大中菜廳',
+        location: '香港城市大學',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.337316201729916, 114.17178170092245],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%9F%8E%E5%A4%A7%E4%B8%AD%E8%8F%9C%E5%BB%B3-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r457778'
+    },
+    {
+        name: 'Ebeneezer‘s Kebabs & Pizzeria',
+        location: '香港城市大學',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.336911807532044, 114.17199895984984],
+        url: 'https://www.openrice.com/zh/hongkong/r-ebeneezers-kebabs-pizzeria-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E4%B8%AD%E6%9D%B1%E8%8F%9C-%E5%92%96%E5%96%B1-r528199'
     }
 ];
 
