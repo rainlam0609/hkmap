@@ -270,6 +270,21 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%BF%AB%E6%B4%BB-%E9%87%91%E9%90%98-%E6%B8%AF%E5%BC%8F-r5234'
     },
     {
+        name: '大家樂',
+        location: '富東廣場',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.289049363141274, 113.94252636491379],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%AE%B6%E6%A8%82-%E6%9D%B1%E6%B6%8C-%E6%B8%AF%E5%BC%8F-%E7%84%A1%E8%82%89%E9%A4%90%E5%96%AE-r6532'
+    },
+    {
+        name: '大家樂',
+        location: 'V Walk',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.326931295627, 114.15486479280192],
+    },
+    {
         name: '吉野家',
         location: '港灣豪庭廣場',
         tier: 'B Tier',
@@ -292,6 +307,22 @@ const restaurants = [
         sizeRating: 2,
         coords: [22.392557778167593, 113.97616706358006],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E5%B1%AF%E9%96%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-r52220'
+    },
+    {
+        name: 'Pizza Hut',
+        location: '東堤灣畔',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.288752107733647, 113.94070139918476],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%BF%85%E5%8B%9D%E5%AE%A2-%E6%9D%B1%E6%B6%8C-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r21589'
+    },
+    {
+        name: 'Pizza Hut',
+        location: '港灣豪庭廣場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.324767373683247, 114.16154644933282],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%BF%85%E5%8B%9D%E5%AE%A2-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r578611'
     },
     {
         name: '燒肉LIKE',
