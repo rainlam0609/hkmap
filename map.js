@@ -740,6 +740,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
     },
     {
+        name: '潮興正宗潮州菜館',
+        location: '福榮街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.33978729890027, 114.1531226954788],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%BD%AE%E8%88%88%E6%AD%A3%E5%AE%97%E6%BD%AE%E5%B7%9E%E8%8F%9C%E9%A4%A8-%E9%95%B7%E6%B2%99%E7%81%A3-%E6%BD%AE%E5%B7%9E%E8%8F%9C-r792311'
+    },
+    {
         name: '潮螺螺真香螺蛳粉',
         location: '利威商業大廈',
         tier: 'A Tier',
