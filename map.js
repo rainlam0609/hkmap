@@ -1,5 +1,12 @@
 // 1. Initialize Leaflet Map over Tsim Sha Tsui, Hong Kong
-const map = L.map('map').setView([22.2990, 114.1724], 13);
+// Initialize the map frame with ultimate seamless momentum scrolling mechanics
+const map = L.map('map', {
+    zoomSnap: 0,                   // 0 means absolute fluid freedom—no whole-number snapping locks!
+    scrollWheelZoom: false,        // Disable standard step-by-step scrolling handler
+    smoothWheelZoom: true,         // Enable the continuous pixel-by-pixel scroll engine
+    smoothSensitivity: 1.5,        // Adjust scroll speed (higher = faster zoom, lower = gentler drift)
+    zoomAnimation: true            // Ensures map tile rendering glides flawlessly during transitions
+}).setView([22.2990, 114.1724], 14); // Starting location view;
 
 // 2. Load Free OpenStreetMap Style Tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
