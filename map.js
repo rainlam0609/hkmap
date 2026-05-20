@@ -208,6 +208,22 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
+        location: '寶漢大廈',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.28077996063629, 114.18257566607517],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%8A%85%E9%91%BC%E7%81%A3-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r747866'
+    },
+    {
+        name: 'McDonald’s',
+        location: '琼林大廈',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.315030987802693, 114.2223369330128],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%89%9B%E9%A0%AD%E8%A7%92-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r48575'
+    },
+    {
+        name: 'McDonald’s',
         location: '九龍公園',
         tier: 'B Tier',
         sizeRating: 3,
@@ -667,6 +683,22 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.31783270129838, 114.16934251760989],
         url: 'https://www.openrice.com/zh/hongkong/r-outdark-%E6%97%BA%E8%A7%92-%E9%9F%93%E5%9C%8B%E8%8F%9C-r457435'
+    },
+    {
+        name: '潮螺螺真香螺蛳粉',
+        location: '利威商業大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.298339505201238, 114.1739701276681],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%BD%AE%E8%9E%BA%E8%9E%BA%E7%9C%9F%E9%A6%99%E8%9E%BA%E8%9B%B3%E7%B2%89-%E5%B0%96%E6%B2%99%E5%92%80-%E6%A1%82%E8%8F%9C-%E5%BB%A3%E8%A5%BF-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r802099'
+    },
+    {
+        name: '牛奶冰室 ',
+        location: '銅鑼灣廣場二期',
+        tier: 'B Tier',
+        sizeRating: 2,
+        coords: [22.28069830792478, 114.18227616849279],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A5%B6%E5%86%B0%E5%AE%A4-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%B8%AF%E5%BC%8F-r796960'
     },
     {
         name: 'Power Burger',
