@@ -844,9 +844,9 @@ function getMarkerColor(tier) {
 // 5. Standalone Size Evaluator Function (Completely Independent of Tier)
 function getMarkerRadius(sizeRating) {
     switch(sizeRating) {
-        case 3:  return 20; // Large Circle
-        case 2:  return 12; // Medium Circle
-        case 1:  return 7;  // Small Circle
+        case 3:  return 18; // Large Circle
+        case 2:  return 10; // Medium Circle
+        case 1:  return 5;  // Small Circle
         default: return 12; // Standard fallback
     }
 }
