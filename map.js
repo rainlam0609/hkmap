@@ -224,6 +224,22 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
+        location: 'D‘Deck',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.296611931603735, 114.01689998933371],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%84%89%E6%99%AF%E7%81%A3-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r2246'
+    },
+    {
+        name: 'McDonald’s',
+        location: '東薈城名店倉',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.289955118702753, 113.94061221817283],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%9D%B1%E6%B6%8C-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r35250'
+    },
+    {
+        name: 'McDonald’s',
         location: '九龍公園',
         tier: 'B Tier',
         sizeRating: 3,
