@@ -724,6 +724,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%90%AC%E7%99%BC%E6%B5%B7%E9%AE%AE%E8%8F%9C%E9%A4%A8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E6%B5%B7%E9%AE%AE-r495907'
     },
     {
+        name: '江湖小棧',
+        location: '寶成大廈',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.371515321078398, 114.1154245819875],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%B1%9F%E6%B9%96%E5%B0%8F%E6%A3%A7-%E8%8D%83%E7%81%A3-%E6%B8%AF%E5%BC%8F-r453593'
+    },
+    {
         name: '雞味濃',
         location: '樹德大廈',
         tier: 'A Tier',
