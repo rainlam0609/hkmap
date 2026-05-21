@@ -519,7 +519,7 @@ const restaurants = [
         location: '百悅坊',
         tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.37309408091386, 114.11610231187312],
+        coords: [22.369211655133622, 114.11488148673101],
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%A5%9A%E6%92%9A%E8%A8%98%E5%A4%A7%E6%8E%92%E6%AA%94-%E8%8D%83%E7%81%A3-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r680361'
     },
     {
@@ -783,7 +783,7 @@ const restaurants = [
         location: '寶成大廈',
         tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.371515321078398, 114.1154245819875],
+        coords: [22.371354719391988, 114.11539373658422],
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%B1%9F%E6%B9%96%E5%B0%8F%E6%A3%A7-%E8%8D%83%E7%81%A3-%E6%B8%AF%E5%BC%8F-r453593'
     },
     {
