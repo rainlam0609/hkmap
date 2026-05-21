@@ -188,7 +188,7 @@ const restaurants = [
         location: '仁寶大廈',
         tier: 'B Tier',
         sizeRating: 3,
-        coords: [22.331611819004884, 114.17003966226514],
+        coords: [22.331409858760843, 114.1700891367917],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r81823'
     },
     {
@@ -552,7 +552,7 @@ const restaurants = [
         location: '快富街',
         tier: 'S Tier',
         sizeRating: 3,
-        coords: [22.32062264618523, 114.1712610245689],
+        coords: [22.320570506090437, 114.17125121126436],
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%BC%81%E5%A0%B4%E5%8F%B0%E9%A2%A8-%E6%97%BA%E8%A7%92-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r445841'
     },
     {
@@ -632,7 +632,7 @@ const restaurants = [
         location: '福榮街',
         tier: 'S Tier',
         sizeRating: 3,
-        coords: [22.33193211714304, 114.16276138352563],
+        coords: [22.33181045876882, 114.16279304662552],
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%87%E8%A8%98%E8%BB%8A%E4%BB%94%E9%BA%B5-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%B8%AF%E5%BC%8F-%E8%BB%8A%E4%BB%94%E9%BA%B5-r55580'
     },
     {
@@ -640,7 +640,7 @@ const restaurants = [
         location: '福榮街',
         tier: 'S Tier',
         sizeRating: 2,
-        coords: [22.331682616315085, 114.16339504470467],
+        coords: [22.3316321628472, 114.16338778404081],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8F%B0%E9%A3%9F%E9%A4%A8-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E7%B2%89%E9%BA%B5-%E7%B1%B3%E7%B7%9A-r700223'
     },
     {
@@ -878,7 +878,7 @@ const restaurants = [
         location: '黃竹街',
         tier: 'S Tier',
         sizeRating: 2,
-        coords: [22.32759144321895, 114.16443398349453],
+        coords: [22.327421156480824, 114.16446663216466],
         url: 'https://www.openrice.com/zh/hongkong/r-power-burger-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r741232'
     },
     {
