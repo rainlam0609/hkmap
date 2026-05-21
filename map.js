@@ -377,7 +377,7 @@ const restaurants = [
         location: '東堤灣畔',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.288752107733647, 113.94070139918476],
+        coords: [22.288413406513854, 113.94068098052539],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%BF%85%E5%8B%9D%E5%AE%A2-%E6%9D%B1%E6%B6%8C-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r21589'
     },
     {
