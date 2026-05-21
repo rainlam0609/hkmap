@@ -196,7 +196,7 @@ const restaurants = [
         location: 'The Wave',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.309927648065017, 114.22464583708853],
+        coords: [22.309697851753967, 114.22464039743558],
     },
     {
         name: 'McDonald’s',
@@ -216,10 +216,10 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
-        location: '琼林大廈',
+        location: '牛頭角道',
         tier: 'B Tier',
         sizeRating: 3,
-        coords: [22.315030987802693, 114.2223369330128],
+        coords: [22.31501955092096, 114.22233150660617],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%89%9B%E9%A0%AD%E8%A7%92-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r48575'
     },
     {
@@ -457,8 +457,8 @@ const restaurants = [
         location: '牛頭角道',
         tier: 'S Tier',
         sizeRating: 3,
-        coords: [22.315211785246543, 114.2221581819858],
-        url: 'https://example.com/fairwood'
+        coords: [22.315054289661408, 114.2221263176192],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%87%91%E9%A3%AF%E9%A4%A8-%E7%89%9B%E9%A0%AD%E8%A7%92-%E6%B8%AF%E5%BC%8F-r721717'
     },
     {
         name: '舌丼',
