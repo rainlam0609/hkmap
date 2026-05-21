@@ -102,7 +102,7 @@ const restaurants = [
         location: '港鐵太子站',
         tier: 'S Tier',
         sizeRating: 3,
-        coords: [22.322948675045673, 114.16929643769501],
+        coords: [22.325040039291647, 114.16830550878854],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%88%AD%E9%AE%AE%E5%A4%96%E5%B8%B6%E5%A3%BD%E5%8F%B8-%E5%A4%AA%E5%AD%90-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r51255'
     },
     {
@@ -322,7 +322,7 @@ const restaurants = [
         location: 'V Walk',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.326931295627, 114.15486479280192],
+        coords: [22.326515701878865, 114.15490318089338],
     },
     {
         name: '吉野家',
@@ -369,7 +369,7 @@ const restaurants = [
         location: '長發廣場',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.363682219988114, 114.10380178372398],
+        coords: [22.362449795938474, 114.10328689037901],
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E9%9D%92%E8%A1%A3-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r608841'
     },
     {
@@ -481,7 +481,7 @@ const restaurants = [
         location: '海天晉滙',
         tier: 'S Tier',
         sizeRating: 1,
-        coords: [22.30418122070105, 114.2603938980381],
+        coords: [22.303999086563643, 114.26040376999742],
         url: 'https://www.openrice.com/zh/hongkong/r-hygge-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E8%A5%BF%E5%BC%8F-r743338'
     },
     {
@@ -544,7 +544,7 @@ const restaurants = [
         location: '荔枝角道',
         tier: 'S Tier',
         sizeRating: 2,
-        coords: [22.32859239605463, 114.16026525199025],
+        coords: [22.328577199331107, 114.16026759892318],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%B5%E5%B1%8B%E4%B8%B8%E4%BA%AC-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r686553'
     },
     {
