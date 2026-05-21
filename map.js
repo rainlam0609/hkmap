@@ -211,7 +211,7 @@ const restaurants = [
         location: '寶漢大廈',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.28077996063629, 114.18257566607517],
+        coords: [22.280665216453027, 114.1825284976602],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%8A%85%E9%91%BC%E7%81%A3-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r747866'
     },
     {
@@ -528,7 +528,7 @@ const restaurants = [
         location: '駱克大廈',
         tier: 'S Tier',
         sizeRating: 1,
-        coords: [22.2813263711094, 114.18152071414741],
+        coords: [22.28048221150417, 114.18136287031743],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A9%E7%84%B6%E8%B1%9A%E9%AA%A8%E6%8B%89%E9%BA%B5%E5%B0%88%E9%96%80%E5%BA%97%E4%B8%80%E8%98%AD-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r140523'
     },
     {
@@ -592,7 +592,7 @@ const restaurants = [
         location: 'V Point',
         tier: 'S Tier',
         sizeRating: 1,
-        coords: [22.27919087503562, 114.18157875314895],
+        coords: [22.27912029694743, 114.18155691535785],
         url: 'https://www.openrice.com/zh/hongkong/r-goobne-chicken-%E9%8A%85%E9%91%BC%E7%81%A3-%E9%9F%93%E5%9C%8B%E8%8F%9C-%E9%9F%93%E5%BC%8F%E7%82%B8%E9%9B%9E-r503026'
     },
     {
@@ -736,7 +736,7 @@ const restaurants = [
         location: '汕頭街',
         tier: 'S Tier',
         sizeRating: 1,
-        coords: [22.276396941842656, 114.17187801082078],
+        coords: [22.27619956841629, 114.17183506999201],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BB%91%E9%BE%8D-%E7%81%A3%E4%BB%94-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E6%8B%89%E9%BA%B5-r348661'
     },
     {
@@ -870,7 +870,7 @@ const restaurants = [
         location: '銅鑼灣廣場二期',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.28069830792478, 114.18227616849279],
+        coords: [22.28050843873377, 114.18221179547724],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A5%B6%E5%86%B0%E5%AE%A4-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%B8%AF%E5%BC%8F-r796960'
     },
     {
