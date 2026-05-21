@@ -772,6 +772,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%BD%AE%E8%88%88%E6%AD%A3%E5%AE%97%E6%BD%AE%E5%B7%9E%E8%8F%9C%E9%A4%A8-%E9%95%B7%E6%B2%99%E7%81%A3-%E6%BD%AE%E5%B7%9E%E8%8F%9C-r792311'
     },
     {
+        name: '稻香',
+        location: '藍天海岸',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.292346522927886, 113.94419977535688],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%A8%BB%E9%A6%99-%E6%9D%B1%E6%B6%8C-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E7%81%AB%E9%8D%8B-r38028'
+    },
+    {
         name: '潮螺螺真香螺蛳粉',
         location: '利威商業大廈',
         tier: 'A Tier',
