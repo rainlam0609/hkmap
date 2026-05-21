@@ -248,6 +248,14 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
+        location: '裕民坊YM²',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.314187525049572, 114.22942743705238],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E8%A7%80%E5%A1%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r820124'
+    },
+    {
+        name: 'McDonald’s',
         location: '九龍公園',
         tier: 'B Tier',
         sizeRating: 3,
