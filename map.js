@@ -352,7 +352,7 @@ const restaurants = [
         location: '屯門時代廣場南翼',
         tier: 'B Tier',
         sizeRating: 2,
-        coords: [22.392557778167593, 113.97616706358006],
+        coords: [22.392500483686103, 113.97614702166531],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E5%B1%AF%E9%96%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-r52220'
     },
     {
