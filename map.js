@@ -262,6 +262,30 @@ const restaurants = [
         coords: [22.300082082547842, 114.17027580741077],
     },
     {
+        name: 'KFC',
+        location: '港灣豪庭廣場',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.300082082547842, 114.17027580741077],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%AE%B6%E9%84%89%E9%9B%9E-kfc-%E5%A4%A7%E8%A7%92%E5%92%80-%E7%BE%8E%E5%9C%8B%E8%8F%9C-r606043'
+    },
+    {
+        name: 'KFC',
+        location: '又一城',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.33820755849869, 114.17445301275482],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%AE%B6%E9%84%89%E9%9B%9E-kfc-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-r681459'
+    },
+    {
+        name: 'KFC',
+        location: '逸東商場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.300082082547842, 114.17027580741077],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%AE%B6%E9%84%89%E9%9B%9E-kfc-%E6%9D%B1%E6%B6%8C-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%B8%85%E7%9C%9F%E8%AA%8D%E8%AD%89%E9%A3%9F%E5%93%81-r104188'
+    },
+    {
         name: '大快活',
         location: '港灣豪庭廣場',
         tier: 'B Tier',
