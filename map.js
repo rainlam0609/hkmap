@@ -317,6 +317,30 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E5%B1%AF%E9%96%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-r52220'
     },
     {
+        name: 'Saizeriya',
+        location: '港灣豪庭廣場',
+        tier: 'B Tier',
+        sizeRating: 3,
+        coords: [22.324921415264164, 114.16108607374287],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r751450'
+    },
+    {
+        name: 'Saizeriya',
+        location: '莊士倫敦廣場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.30345071978486, 114.17153991745259],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E4%BD%90%E6%95%A6-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r716361'
+    },
+    {
+        name: 'Saizeriya',
+        location: '長發廣場',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.363682219988114, 114.10380178372398],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E9%9D%92%E8%A1%A3-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r608841'
+    },
+    {
         name: 'Pizza Hut',
         location: '東堤灣畔',
         tier: 'B Tier',
@@ -522,14 +546,6 @@ const restaurants = [
         sizeRating: 1,
         coords: [22.305117997726104, 114.17167067503313],
         url: 'https://www.openrice.com/zh/hongkong/r-sukiya-%E3%81%99%E3%81%8D%E5%AE%B6-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r665937'
-    },
-    {
-        name: 'Saizeriya',
-        location: '莊士倫敦廣場',
-        tier: 'B Tier',
-        sizeRating: 1,
-        coords: [22.30345071978486, 114.17153991745259],
-        url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E4%BD%90%E6%95%A6-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r716361'
     },
     {
         name: '漢和韓國料理',
