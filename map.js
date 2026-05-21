@@ -688,7 +688,7 @@ const restaurants = [
         location: '銅鑼灣廣場二期',
         tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.280754824441125, 114.18219996849281],
+        coords: [22.280594686537523, 114.18213535252173],
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A4%A7%E4%BA%BA%E5%8F%B0%E7%81%A3%E7%81%AB%E9%8D%8B%E5%90%83%E5%88%B0%E9%A3%BD-%E9%8A%85%E9%91%BC%E7%81%A3-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E4%BB%BB%E9%A3%9F-%E6%94%BE%E9%A1%8C-r667443'
     },
     {
