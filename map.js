@@ -134,7 +134,7 @@ const restaurants = [
         location: '海富中心',
         tier: 'B Tier',
         sizeRating: 3,
-        coords: [22.280002809624946, 114.16497588133032],
+        coords: [22.279271795263227, 114.16502192717638],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%87%91%E9%90%98-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r486343'
     },
     {
@@ -313,7 +313,7 @@ const restaurants = [
         location: '遠東金融中心',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.280182390478778, 114.16405206412904],
+        coords: [22.280166238730953, 114.16404736602941],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%A4%A7%E5%BF%AB%E6%B4%BB-%E9%87%91%E9%90%98-%E6%B8%AF%E5%BC%8F-r5234'
     },
     {
@@ -344,7 +344,7 @@ const restaurants = [
         location: '大昌大廈',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.283338783165302, 114.1577493942954],
+        coords: [22.283023061340376, 114.15768386509687],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%90%89%E9%87%8E%E5%AE%B6-%E4%B8%AD%E7%92%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r14506'
     },
     {
