@@ -834,6 +834,30 @@ const restaurants = [
         coords: [22.33353744413776, 114.19235061082233],
     },
     {
+        name: '南北小廚',
+        location: '香港科技大學',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.337265387664523, 114.26405083636365],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%97%E5%8C%97%E5%B0%8F%E5%BB%9A-%E8%A5%BF%E8%B2%A2-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r1216'
+    },
+    {
+        name: '四寶食堂',
+        location: '東頭商場',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.316821776040417, 114.1710116586616],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%9B%9B%E5%AF%B6%E9%A3%9F%E5%A0%82-%E6%97%BA%E8%A7%92-%E6%B8%AF%E5%BC%8F-all-day-breakfast-r691904'
+    },
+    {
+        name: '一粥麵',
+        location: '富東商場',
+        tier: 'A Tier',
+        sizeRating: 2,
+        coords: [22.288754599259654, 113.93997290000001],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E4%B8%80%E7%B2%A5%E9%BA%B5-%E6%9D%B1%E6%B6%8C-%E6%B8%AF%E5%BC%8F-%E7%B2%A5%E5%93%81-r31839'
+    },
+    {
         name: '潮螺螺真香螺蛳粉',
         location: '利威商業大廈',
         tier: 'A Tier',
