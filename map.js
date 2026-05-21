@@ -274,7 +274,7 @@ const restaurants = [
         location: '港灣豪庭廣場',
         tier: 'B Tier',
         sizeRating: 3,
-        coords: [22.300082082547842, 114.17027580741077],
+        coords: [22.324612060051294, 114.16167589467157],
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%AE%B6%E9%84%89%E9%9B%9E-kfc-%E5%A4%A7%E8%A7%92%E5%92%80-%E7%BE%8E%E5%9C%8B%E8%8F%9C-r606043'
     },
     {
@@ -290,7 +290,7 @@ const restaurants = [
         location: '逸東商場',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.300082082547842, 114.17027580741077],
+        coords: [22.281373246977676, 113.93517439857908],
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%AE%B6%E9%84%89%E9%9B%9E-kfc-%E6%9D%B1%E6%B6%8C-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%B8%85%E7%9C%9F%E8%AA%8D%E8%AD%89%E9%A3%9F%E5%93%81-r104188'
     },
     {
@@ -361,7 +361,7 @@ const restaurants = [
         location: '莊士倫敦廣場',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.30345071978486, 114.17153991745259],
+        coords: [22.303444987434197, 114.17154265981641],
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%96%A9%E8%8E%89%E4%BA%9E%E6%84%8F%E5%BC%8F%E9%A4%90%E5%BB%B3-%E4%BD%90%E6%95%A6-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%8F%9C-%E8%96%84%E9%A4%85-r716361'
     },
     {
@@ -576,7 +576,7 @@ const restaurants = [
         location: '譽發廣場',
         tier: 'B Tier',
         sizeRating: 1,
-        coords: [22.305117997726104, 114.17167067503313],
+        coords: [22.304706065649405, 114.17184837162105],
         url: 'https://www.openrice.com/zh/hongkong/r-sukiya-%E3%81%99%E3%81%8D%E5%AE%B6-%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E6%97%A5%E6%9C%AC%E8%8F%9C-r665937'
     },
     {
