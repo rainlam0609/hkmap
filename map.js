@@ -835,6 +835,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%BD%A9%E7%A6%8F%E7%9A%87%E5%AE%B4-%E7%B4%85%E7%A3%A1-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E6%B5%B7%E9%AE%AE-r12853'
     },
     {
+        name: '理大美食坊',
+        location: '香港理工大學',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.304711028693973, 114.17904860947698],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%90%86%E5%A4%A7%E7%BE%8E%E9%A3%9F%E5%9D%8A-%E7%B4%85%E7%A3%A1-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r120441'
+    },
+    {
         name: 'Lawn Café',
         location: '香港理工大學',
         tier: 'A Tier',
