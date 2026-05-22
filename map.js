@@ -877,7 +877,7 @@ const restaurants = [
         location: '富東商場',
         tier: 'Z Tier',
         sizeRating: 2,
-        coords: [22.288754599259654, 113.93997290000001],
+        coords: [22.288932765283175, 113.942486],
         url: 'https://www.openrice.com/zh/hongkong/r-%E4%B8%80%E7%B2%A5%E9%BA%B5-%E6%9D%B1%E6%B6%8C-%E6%B8%AF%E5%BC%8F-%E7%B2%A5%E5%93%81-r31839'
     },
     {
