@@ -819,6 +819,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%A8%BB%E9%A6%99-%E6%9D%B1%E6%B6%8C-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E7%81%AB%E9%8D%8B-r38028'
     },
     {
+        name: '新強記燒腊飯店',
+        location: '上海街',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.30601791131212, 114.16931353704081],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%B0%E5%BC%B7%E8%A8%98%E7%87%92%E8%85%8A%E9%A3%AF%E5%BA%97-%E4%BD%90%E6%95%A6-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r22131'
+    },
+    {
         name: '彩福皇宴',
         location: '置富都會',
         tier: 'B Tier',
