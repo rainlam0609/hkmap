@@ -177,15 +177,15 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
-        location: '大同新村',
+        location: '大角咀道',
         tier: 'B Tier',
         sizeRating: 3,
-        coords: [22.321640133338807, 114.16166564491859],
+        coords: [22.3212696855082, 114.16163136282252],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%A4%A7%E8%A7%92%E5%92%80-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r4135'
     },
     {
         name: 'McDonald’s',
-        location: '仁寶大廈',
+        location: '窩仔街',
         tier: 'B Tier',
         sizeRating: 3,
         coords: [22.331409858760843, 114.1700891367917],
@@ -208,7 +208,7 @@ const restaurants = [
     },
     {
         name: 'McDonald’s',
-        location: '寶漢大廈',
+        location: '波斯富街',
         tier: 'B Tier',
         sizeRating: 2,
         coords: [22.280665216453027, 114.1825284976602],
