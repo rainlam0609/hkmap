@@ -859,7 +859,7 @@ const restaurants = [
     {
         name: '四寶食堂',
         location: '東頭商場',
-        tier: 'A Tier',
+        tier: 'D Tier',
         sizeRating: 1,
         coords: [22.316821776040417, 114.1710116586616],
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%9B%9B%E5%AF%B6%E9%A3%9F%E5%A0%82-%E6%97%BA%E8%A7%92-%E6%B8%AF%E5%BC%8F-all-day-breakfast-r691904'
@@ -867,7 +867,7 @@ const restaurants = [
     {
         name: '一粥麵',
         location: '富東商場',
-        tier: 'A Tier',
+        tier: 'D Tier',
         sizeRating: 2,
         coords: [22.288754599259654, 113.93997290000001],
         url: 'https://www.openrice.com/zh/hongkong/r-%E4%B8%80%E7%B2%A5%E9%BA%B5-%E6%9D%B1%E6%B6%8C-%E6%B8%AF%E5%BC%8F-%E7%B2%A5%E5%93%81-r31839'
@@ -891,7 +891,7 @@ const restaurants = [
     {
         name: '花月庭',
         location: '帝京酒店',
-        tier: 'A Tier',
+        tier: 'D Tier',
         sizeRating: 1,
         coords: [22.324010439117533, 114.1732147999982],
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%8A%B1%E6%9C%88%E5%BA%AD-%E6%97%BA%E8%A7%92-%E5%A4%9A%E5%9C%8B%E8%8F%9C-%E8%87%AA%E5%8A%A9%E9%A4%90-r1793'
