@@ -827,6 +827,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%B0%E5%BC%B7%E8%A8%98%E7%87%92%E8%85%8A%E9%A3%AF%E5%BA%97-%E4%BD%90%E6%95%A6-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r22131'
     },
     {
+        name: '彩龍大酒樓',
+        location: '窩仔街',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.33194627959373, 114.17059306773847],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%BD%A9%E9%BE%8D%E5%A4%A7%E9%85%92%E6%A8%93-%E7%9F%B3%E7%A1%A4%E5%B0%BE-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r1923'
+    },
+    {
         name: '彩福皇宴',
         location: '置富都會',
         tier: 'B Tier',
