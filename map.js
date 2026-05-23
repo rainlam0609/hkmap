@@ -905,6 +905,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A5%B6%E5%86%B0%E5%AE%A4-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%B8%AF%E5%BC%8F-r796960'
     },
     {
+        name: '牛奶冰室',
+        location: '霎東街',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.277739591042213, 114.18179067056327],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%89%9B%E5%A5%B6%E5%86%B0%E5%AE%A4-%E9%8A%85%E9%91%BC%E7%81%A3-%E6%B8%AF%E5%BC%8F-r706937'
+    },
+    {
         name: '花月庭',
         location: '帝京酒店',
         tier: 'Z Tier',
