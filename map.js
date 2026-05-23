@@ -921,6 +921,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E8%8A%B1%E6%9C%88%E5%BA%AD-%E6%97%BA%E8%A7%92-%E5%A4%9A%E5%9C%8B%E8%8F%9C-%E8%87%AA%E5%8A%A9%E9%A4%90-r1793'
     },
     {
+        name: '春水堂',
+        location: '希慎廣場',
+        tier: 'Z Tier',
+        sizeRating: 1,
+        coords: [22.279691518035072, 114.18378099999639],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%98%A5%E6%B0%B4%E5%A0%82-%E9%8A%85%E9%91%BC%E7%81%A3-%E5%8F%B0%E7%81%A3%E8%8F%9C-%E5%8F%B0%E5%BC%8F%E9%A3%B2%E5%93%81-r649684'
+    },
+    {
         name: 'Power Burger',
         location: '黃竹街',
         tier: 'S Tier',
