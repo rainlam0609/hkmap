@@ -791,7 +791,7 @@ const restaurants = [
         location: '樹德大廈',
         tier: 'A Tier',
         sizeRating: 1,
-        coords: [22.27932287334518, 114.17009239412947],
+        coords: [22.276081263433134, 114.17153455370048],
         url: 'https://www.openrice.com/zh/hongkong/r-%E9%9B%9E%E5%91%B3%E6%BF%83-%E7%81%A3%E4%BB%94-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r749863'
     },
     {
