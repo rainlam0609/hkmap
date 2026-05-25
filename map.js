@@ -977,6 +977,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E6%96%B0%E8%92%B2%E5%B4%97-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%87%92%E7%83%A4-r872989'
     },
     {
+        name: '燒肉LIKE',
+        location: '奧海城二期',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.316722786644387, 114.16116951110584],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%87%92%E8%82%89like-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E7%83%A4%E8%82%89-r790880'
+    },
+    {
         name: '印度野',
         location: '慧安商場',
         tier: 'S Tier',
