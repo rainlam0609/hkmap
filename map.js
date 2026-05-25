@@ -977,6 +977,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%B0%E5%BA%A6%E9%87%8E-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E5%8D%B0%E5%BA%A6%E8%8F%9C-%E5%92%96%E5%96%B1-r790085'
     },
     {
+        name: 'CHICKEN FACTORY',
+        location: 'V Walk',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.32697378059626, 114.15429599582771],
+        url: 'https://www.openrice.com/zh/hongkong/r-chicken-factory-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E5%A4%9A%E5%9C%8B%E8%8F%9C-r704536'
+    },
+    {
         name: '多彩皇宮',
         location: '美彩樓',
         tier: 'B Tier',
