@@ -881,6 +881,13 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8D%97%E5%8C%97%E5%B0%8F%E5%BB%9A-%E8%A5%BF%E8%B2%A2-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E9%BB%9E%E5%BF%83-r1216'
     },
     {
+        name: '科技大學食堂',
+        location: '香港科技大學',
+        tier: 'A Tier',
+        sizeRating: 1,
+        coords: [22.338001297542057, 114.26406947240095],
+    },
+    {
         name: '四寶食堂',
         location: '東頭商場',
         tier: 'Z Tier',
