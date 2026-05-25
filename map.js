@@ -579,6 +579,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E5%8F%A4%E6%97%A9%E5%8F%B0%E5%B1%85-%E6%97%BA%E8%A7%92-%E5%8F%B0%E7%81%A3%E8%8F%9C-r706958'
     },
     {
+        name: 'URBAN Cafe',
+        location: '兆萬中心',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.315648921179896, 114.1707135278545],
+        url: 'https://www.openrice.com/zh/hongkong/r-urban-cafe-%E6%97%BA%E8%A7%92-%E5%A4%9A%E5%9C%8B%E8%8F%9C-r799541'
+    },
+    {
         name: 'Sukiya',
         location: '譽發廣場',
         tier: 'B Tier',
