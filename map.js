@@ -819,6 +819,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E7%A8%BB%E9%A6%99-%E6%9D%B1%E6%B6%8C-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-%E7%81%AB%E9%8D%8B-r38028'
     },
     {
+        name: '煌宴酒家',
+        location: '新都城中心三期',
+        tier: 'B Tier',
+        sizeRating: 1,
+        coords: [22.321806240360424, 114.25702157964864],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E7%85%8C%E5%AE%B4%E9%85%92%E5%AE%B6-%E5%B0%87%E8%BB%8D%E6%BE%B3-%E7%B2%B5%E8%8F%9C-%E5%BB%A3%E6%9D%B1-r551781'
+    },
+    {
         name: '新強記燒腊飯店',
         location: '上海街',
         tier: 'S Tier',
