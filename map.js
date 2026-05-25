@@ -1112,6 +1112,30 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-pepper-lunch-express-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-r87367'
     },
     {
+        name: '城大食坊',
+        location: '香港城市大學',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.336690144266104, 114.17252915428766],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E5%9F%8E%E5%A4%A7%E9%A3%9F%E5%9D%8A-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r31409'
+    },
+    {
+        name: 'AC2 Canteen',
+        location: '香港城市大學',
+        tier: 'A Tier',
+        sizeRating: 3,
+        coords: [22.337867944495546, 114.17215777920715],
+        url: 'https://www.openrice.com/zh/hongkong/r-ac2-canteen-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E5%A4%9A%E5%9C%8B%E8%8F%9C-r708408'
+    },
+    {
+        name: 'AC3 Bistro by Lassana',
+        location: '香港城市大學',
+        tier: 'S Tier',
+        sizeRating: 3,
+        coords: [22.33780392938179, 114.17267261440686],
+        url: 'https://www.openrice.com/zh/hongkong/r-ac3-bistro-by-lassana-%E4%B9%9D%E9%BE%8D%E5%A1%98-%E8%A5%BF%E5%BC%8F-r773210'
+    },
+    {
         name: '城大中菜廳',
         location: '香港城市大學',
         tier: 'A Tier',
