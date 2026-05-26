@@ -843,6 +843,14 @@ const restaurants = [
         url: 'https://www.openrice.com/zh/hongkong/r-%E6%96%B0%E5%BC%B7%E8%A8%98%E7%87%92%E8%85%8A%E9%A3%AF%E5%BA%97-%E4%BD%90%E6%95%A6-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r22131'
     },
     {
+        name: '朗益燒味工房',
+        location: '桂林街',
+        tier: 'S Tier',
+        sizeRating: 1,
+        coords: [22.330362958117494, 114.16110578924034],
+        url: 'https://www.openrice.com/zh/hongkong/r-%E6%9C%97%E7%9B%8A%E7%87%92%E5%91%B3%E5%B7%A5%E6%88%BF-%E6%B7%B1%E6%B0%B4%E5%9F%97-%E6%B8%AF%E5%BC%8F-%E7%87%92%E8%87%98-r757642'
+    },
+    {
         name: '彩龍大酒樓',
         location: '窩仔街',
         tier: 'A Tier',
